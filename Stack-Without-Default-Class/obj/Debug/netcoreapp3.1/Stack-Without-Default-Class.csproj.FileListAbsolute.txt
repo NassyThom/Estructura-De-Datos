@@ -1,0 +1,17 @@
+C:\Users\Tms-n\source\repos\Stack-Without-Default-Class\Stack-Without-Default-Class\bin\Debug\netcoreapp3.1\Stack-Without-Default-Class.exe
+C:\Users\Tms-n\source\repos\Stack-Without-Default-Class\Stack-Without-Default-Class\bin\Debug\netcoreapp3.1\Stack-Without-Default-Class.deps.json
+C:\Users\Tms-n\source\repos\Stack-Without-Default-Class\Stack-Without-Default-Class\bin\Debug\netcoreapp3.1\Stack-Without-Default-Class.runtimeconfig.json
+C:\Users\Tms-n\source\repos\Stack-Without-Default-Class\Stack-Without-Default-Class\bin\Debug\netcoreapp3.1\Stack-Without-Default-Class.runtimeconfig.dev.json
+C:\Users\Tms-n\source\repos\Stack-Without-Default-Class\Stack-Without-Default-Class\bin\Debug\netcoreapp3.1\Stack-Without-Default-Class.dll
+C:\Users\Tms-n\source\repos\Stack-Without-Default-Class\Stack-Without-Default-Class\bin\Debug\netcoreapp3.1\Stack-Without-Default-Class.pdb
+C:\Users\Tms-n\source\repos\Stack-Without-Default-Class\Stack-Without-Default-Class\obj\Debug\netcoreapp3.1\Stack-Without-Default-Class.csproj.AssemblyReference.cache
+C:\Users\Tms-n\source\repos\Stack-Without-Default-Class\Stack-Without-Default-Class\obj\Debug\netcoreapp3.1\Stack_Without_Default_Class.Form1.resources
+C:\Users\Tms-n\source\repos\Stack-Without-Default-Class\Stack-Without-Default-Class\obj\Debug\netcoreapp3.1\Stack-Without-Default-Class.csproj.GenerateResource.cache
+C:\Users\Tms-n\source\repos\Stack-Without-Default-Class\Stack-Without-Default-Class\obj\Debug\netcoreapp3.1\Stack-Without-Default-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tms-n\source\repos\Stack-Without-Default-Class\Stack-Without-Default-Class\obj\Debug\netcoreapp3.1\Stack-Without-Default-Class.AssemblyInfoInputs.cache
+C:\Users\Tms-n\source\repos\Stack-Without-Default-Class\Stack-Without-Default-Class\obj\Debug\netcoreapp3.1\Stack-Without-Default-Class.AssemblyInfo.cs
+C:\Users\Tms-n\source\repos\Stack-Without-Default-Class\Stack-Without-Default-Class\obj\Debug\netcoreapp3.1\Stack-Without-Default-Class.csproj.CoreCompileInputs.cache
+C:\Users\Tms-n\source\repos\Stack-Without-Default-Class\Stack-Without-Default-Class\obj\Debug\netcoreapp3.1\Stack-Without-Default-Class.dll
+C:\Users\Tms-n\source\repos\Stack-Without-Default-Class\Stack-Without-Default-Class\obj\Debug\netcoreapp3.1\Stack-Without-Default-Class.pdb
+C:\Users\Tms-n\source\repos\Stack-Without-Default-Class\Stack-Without-Default-Class\obj\Debug\netcoreapp3.1\Stack-Without-Default-Class.genruntimeconfig.cache
+C:\Users\Tms-n\source\repos\Stack-Without-Default-Class\Stack-Without-Default-Class\obj\Debug\netcoreapp3.1\Stack_Without_Default_Class.Properties.Resources.resources
